@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_portaudio_FILE C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/lib/portaudio/libportaudio.dll)
+set(__QT_DEPLOY_TARGET_portaudio_TYPE SHARED_LIBRARY)
+set(__QT_DEPLOY_TARGET_portaudio_RUNTIME_DLLS )
+set(__QT_DEPLOY_TARGET_MachineLanguage_FILE C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/MachineLanguage.exe)
+set(__QT_DEPLOY_TARGET_MachineLanguage_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_MachineLanguage_RUNTIME_DLLS C:/Qt/6.9.2/mingw_64/bin/Qt6Widgets.dll;C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/lib/portaudio/libportaudio.dll;C:/Qt/6.9.2/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.9.2/mingw_64/bin/Qt6Core.dll)

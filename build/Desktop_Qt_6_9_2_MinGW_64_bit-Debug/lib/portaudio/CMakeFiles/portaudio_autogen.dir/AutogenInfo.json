@@ -1,0 +1,360 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/lib/portaudio/portaudio_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/lib/portaudio",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio",
+	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/CMakeLists.txt",
+		"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/cmake_support/FindASIOSDK.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/cmake_support/FindASIOSDK.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake",
+		"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/cmake_support/template_portaudio.def",
+		"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/cmake_support/options_cmake.h.in",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/TestBigEndian.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckTypeSize.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckIncludeFile.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake",
+		"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/cmake_support/portaudioConfig.cmake.in",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/BasicConfigVersion-SameMajorVersion.cmake.in",
+		"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/cmake_support/portaudio-2.0.pc.in",
+		"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/cmake_support/cmake_uninstall.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/lib/portaudio/portaudio_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "portaudio_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/lib/portaudio/options_cmake.h",
+			"MU",
+			"EJRQKI7XPS/moc_options_cmake.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/include/pa_win_ds.h",
+			"MU",
+			"6YEA5652QU/moc_pa_win_ds.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/include/pa_win_wasapi.h",
+			"MU",
+			"6YEA5652QU/moc_pa_win_wasapi.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/include/pa_win_waveformat.h",
+			"MU",
+			"6YEA5652QU/moc_pa_win_waveformat.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/include/pa_win_wdmks.h",
+			"MU",
+			"6YEA5652QU/moc_pa_win_wdmks.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/include/pa_win_wmme.h",
+			"MU",
+			"6YEA5652QU/moc_pa_win_wmme.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/include/portaudio.h",
+			"MU",
+			"6YEA5652QU/moc_portaudio.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_allocation.h",
+			"MU",
+			"2PZEZPHIBF/moc_pa_allocation.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_converters.h",
+			"MU",
+			"2PZEZPHIBF/moc_pa_converters.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_cpuload.h",
+			"MU",
+			"2PZEZPHIBF/moc_pa_cpuload.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_debugprint.h",
+			"MU",
+			"2PZEZPHIBF/moc_pa_debugprint.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_dither.h",
+			"MU",
+			"2PZEZPHIBF/moc_pa_dither.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_endianness.h",
+			"MU",
+			"2PZEZPHIBF/moc_pa_endianness.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_hostapi.h",
+			"MU",
+			"2PZEZPHIBF/moc_pa_hostapi.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_memorybarrier.h",
+			"MU",
+			"2PZEZPHIBF/moc_pa_memorybarrier.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_process.h",
+			"MU",
+			"2PZEZPHIBF/moc_pa_process.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_ringbuffer.h",
+			"MU",
+			"2PZEZPHIBF/moc_pa_ringbuffer.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_stream.h",
+			"MU",
+			"2PZEZPHIBF/moc_pa_stream.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_trace.h",
+			"MU",
+			"2PZEZPHIBF/moc_pa_trace.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_types.h",
+			"MU",
+			"2PZEZPHIBF/moc_pa_types.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_util.h",
+			"MU",
+			"2PZEZPHIBF/moc_pa_util.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/hostapi/dsound/pa_win_ds_dynlink.h",
+			"MU",
+			"3PPWESBPII/moc_pa_win_ds_dynlink.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/os/win/pa_win_coinitialize.h",
+			"MU",
+			"HXDXQHPLTE/moc_pa_win_coinitialize.cpp",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/os/win/pa_win_wdmks_utils.h",
+			"MU",
+			"HXDXQHPLTE/moc_pa_win_wdmks_utils.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/lib/portaudio/portaudio_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/lib/portaudio/portaudio_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"PAWIN_USE_WDMKS_DEVICE_INFO",
+		"PA_LITTLE_ENDIAN",
+		"PORTAUDIO_CMAKE_GENERATED",
+		"WINVER=0x0501",
+		"_CRT_SECURE_NO_WARNINGS",
+		"_WIN32_WINNT=0x0501",
+		"portaudio_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/include",
+		"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common",
+		"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/lib/portaudio",
+		"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/os/win",
+		"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/include",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
+		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
+		"C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Qt/Tools/mingw1310_64/bin/g++.exe",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/lib/portaudio/portaudio_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/lib/portaudio/CMakeFiles/portaudio_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.9.2/mingw_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/6.9.2/mingw_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/lib/portaudio/CMakeFiles/portaudio_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_allocation.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_converters.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_cpuload.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_debugprint.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_dither.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_front.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_process.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_ringbuffer.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_stream.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/common/pa_trace.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/hostapi/dsound/pa_win_ds.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/hostapi/dsound/pa_win_ds_dynlink.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/hostapi/skeleton/pa_hostapi_skeleton.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/hostapi/wasapi/pa_win_wasapi.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/hostapi/wdmks/pa_win_wdmks.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/hostapi/wmme/pa_win_wmme.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/os/win/pa_win_coinitialize.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/os/win/pa_win_hostapis.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/os/win/pa_win_util.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/os/win/pa_win_waveformat.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/lib/portaudio/src/os/win/pa_win_wdmks_utils.c",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

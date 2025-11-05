@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"lib/portaudio/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "portaudio_autogen_timestamp_deps::@8db1857f5d58be260399",
+	"isGeneratorProvided" : true,
+	"name" : "portaudio_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "lib/portaudio",
+		"source" : "lib/portaudio"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

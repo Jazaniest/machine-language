@@ -1,0 +1,135 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "lib/portaudio",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-lib.portaudio-Debug-f97b7c9b99fbd4cba816.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lib/portaudio",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "MachineLanguage",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MachineLanguage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MachineLanguage-Debug-f2e0a305b4a227e2e1b6.json",
+					"name" : "MachineLanguage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MachineLanguage_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MachineLanguage_autogen-Debug-e75c75434b6469717fe6.json",
+					"name" : "MachineLanguage_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MachineLanguage_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MachineLanguage_autogen_timestamp_deps-Debug-4bbb0576e329949b1bd4.json",
+					"name" : "MachineLanguage_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "portaudio::@8db1857f5d58be260399",
+					"jsonFile" : "target-portaudio-Debug-dbd82ab305d7df40389d.json",
+					"name" : "portaudio",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "portaudio_autogen::@8db1857f5d58be260399",
+					"jsonFile" : "target-portaudio_autogen-Debug-5080c832814e7648acc5.json",
+					"name" : "portaudio_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "portaudio_autogen_timestamp_deps::@8db1857f5d58be260399",
+					"jsonFile" : "target-portaudio_autogen_timestamp_deps-Debug-6a2be039be4a8747c1b4.json",
+					"name" : "portaudio_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "uninstall::@8db1857f5d58be260399",
+					"jsonFile" : "target-uninstall-Debug-aee51a9c1ed71a8410e7.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ASUS/OneDrive/Desktop/startup/MachineLanguage"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
